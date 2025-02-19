@@ -1,0 +1,4002 @@
+[
+    {
+        "sentence": "There is a dog in the picture.",
+        "category": "dog"
+    },
+    {
+        "sentence": "Is that a monkey in the picture?",
+        "category": "monkey"
+    },
+    {
+        "sentence": "Can someone confirm if this is a squirrel?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Can you tell if this is a butterfly?",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "I spotted something that looks like a squirrel.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "I have a feeling that’s a hen.",
+        "category": "hen"
+    },
+    {
+        "sentence": "I’m pretty sure this is a butterfly, right?",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "I think I see a elephant in this photo.",
+        "category": "elephant"
+    },
+    {
+        "sentence": "Can someone confirm if this is a butterfly?",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "There is a horse in the picture.",
+        "category": "horse"
+    },
+    {
+        "sentence": "Is there a hen here, or am I wrong?",
+        "category": "hen"
+    },
+    {
+        "sentence": "I have a feeling that’s a hen.",
+        "category": "hen"
+    },
+    {
+        "sentence": "Is there a cow here, or am I wrong?",
+        "category": "cow"
+    },
+    {
+        "sentence": "Help me out, is this a cat?",
+        "category": "cat"
+    },
+    {
+        "sentence": "Doesn’t this look like a sheep to you?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "I spotted something that looks like a monkey.",
+        "category": "monkey"
+    },
+    {
+        "sentence": "Is this really a horse or something else?",
+        "category": "horse"
+    },
+    {
+        "sentence": "I think I just found a monkey in this image!",
+        "category": "monkey"
+    },
+    {
+        "sentence": "Can someone confirm if this is a butterfly?",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "I think I just found a monkey in this image!",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I spotted something that looks like a cat.",
+        "category": "cat"
+    },
+    {
+        "sentence": "I spotted something that looks like a dog.",
+        "category": "dog"
+    },
+    {
+        "sentence": "This photo seems to have a cow, doesn’t it?",
+        "category": "cow"
+    },
+    {
+        "sentence": "Looks like there’s a cat in this image.",
+        "category": "cat"
+    },
+    {
+        "sentence": "Is that a dog in the picture?",
+        "category": "dog"
+    },
+    {
+        "sentence": "Can someone confirm if this is a butterfly?",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "I’m pretty sure this is a sheep, right?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "Is there a panda here, or am I wrong?",
+        "category": "panda"
+    },
+    {
+        "sentence": "It appears there’s a horse in this shot.",
+        "category": "horse"
+    },
+    {
+        "sentence": "I spotted something that looks like a dog.",
+        "category": "dog"
+    },
+    {
+        "sentence": "I spotted something that looks like a butterfly.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "I think I just found a panda in this image!",
+        "category": "panda"
+    },
+    {
+        "sentence": "This photo seems to have a spider, doesn’t it?",
+        "category": "spider"
+    },
+    {
+        "sentence": "I wonder if this is actually a panda.",
+        "category": "panda"
+    },
+    {
+        "sentence": "I have a feeling that’s a cow.",
+        "category": "cow"
+    },
+    {
+        "sentence": "Is this really a squirrel or something else?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Looks like there’s a spider in this image.",
+        "category": "spider"
+    },
+    {
+        "sentence": "Can someone confirm if this is a hen?",
+        "category": "hen"
+    },
+    {
+        "sentence": "Is there a sheep here, or am I wrong?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "Doesn’t this look like a cow to you?",
+        "category": "cow"
+    },
+    {
+        "sentence": "I have a feeling that’s a cat.",
+        "category": "cat"
+    },
+    {
+        "sentence": "Is that a hen in the picture?",
+        "category": "hen"
+    },
+    {
+        "sentence": "Can someone confirm if this is a sheep?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "I guess that’s a squirrel in the background.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Doesn’t this look like a horse to you?",
+        "category": "horse"
+    },
+    {
+        "sentence": "Can someone confirm if this is a monkey?",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I spotted something that looks like a hen.",
+        "category": "hen"
+    },
+    {
+        "sentence": "I’m pretty sure this is a dog, right?",
+        "category": "dog"
+    },
+    {
+        "sentence": "Is there a hen here, or am I wrong?",
+        "category": "hen"
+    },
+    {
+        "sentence": "Is that a elephant in the picture?",
+        "category": "elephant"
+    },
+    {
+        "sentence": "I think I see a cat in this photo.",
+        "category": "cat"
+    },
+    {
+        "sentence": "Doesn’t this look like a dog to you?",
+        "category": "dog"
+    },
+    {
+        "sentence": "There is a monkey in the picture.",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a butterfly.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "I think I just found a butterfly in this image!",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "I wonder if this is actually a monkey.",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I have a feeling that’s a squirrel.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "There is a panda in the picture.",
+        "category": "panda"
+    },
+    {
+        "sentence": "Looks like there’s a horse in this image.",
+        "category": "horse"
+    },
+    {
+        "sentence": "Can you tell if this is a panda?",
+        "category": "panda"
+    },
+    {
+        "sentence": "This photo seems to have a horse, doesn’t it?",
+        "category": "horse"
+    },
+    {
+        "sentence": "Is that a spider in the picture?",
+        "category": "spider"
+    },
+    {
+        "sentence": "Doesn’t this look like a monkey to you?",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I wonder if this is actually a elephant.",
+        "category": "elephant"
+    },
+    {
+        "sentence": "Do you also see a cow in this picture?",
+        "category": "cow"
+    },
+    {
+        "sentence": "I have a feeling that’s a dog.",
+        "category": "dog"
+    },
+    {
+        "sentence": "This photo seems to have a monkey, doesn’t it?",
+        "category": "monkey"
+    },
+    {
+        "sentence": "Doesn’t this look like a spider to you?",
+        "category": "spider"
+    },
+    {
+        "sentence": "There is a hen in the picture.",
+        "category": "hen"
+    },
+    {
+        "sentence": "I think I see a horse in this photo.",
+        "category": "horse"
+    },
+    {
+        "sentence": "I spotted something that looks like a spider.",
+        "category": "spider"
+    },
+    {
+        "sentence": "I have a feeling that’s a cat.",
+        "category": "cat"
+    },
+    {
+        "sentence": "It appears there’s a sheep in this shot.",
+        "category": "sheep"
+    },
+    {
+        "sentence": "Help me out, is this a panda?",
+        "category": "panda"
+    },
+    {
+        "sentence": "Can someone confirm if this is a elephant?",
+        "category": "elephant"
+    },
+    {
+        "sentence": "Help me out, is this a dog?",
+        "category": "dog"
+    },
+    {
+        "sentence": "I think I see a panda in this photo.",
+        "category": "panda"
+    },
+    {
+        "sentence": "I think I just found a spider in this image!",
+        "category": "spider"
+    },
+    {
+        "sentence": "There is a monkey in the picture.",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I think I just found a horse in this image!",
+        "category": "horse"
+    },
+    {
+        "sentence": "Help me out, is this a hen?",
+        "category": "hen"
+    },
+    {
+        "sentence": "I spotted something that looks like a panda.",
+        "category": "panda"
+    },
+    {
+        "sentence": "Doesn’t this look like a panda to you?",
+        "category": "panda"
+    },
+    {
+        "sentence": "I’m pretty sure this is a spider, right?",
+        "category": "spider"
+    },
+    {
+        "sentence": "Is there a monkey here, or am I wrong?",
+        "category": "monkey"
+    },
+    {
+        "sentence": "Is there a squirrel here, or am I wrong?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Is that a cow in the picture?",
+        "category": "cow"
+    },
+    {
+        "sentence": "This photo seems to have a cat, doesn’t it?",
+        "category": "cat"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a dog.",
+        "category": "dog"
+    },
+    {
+        "sentence": "Can someone confirm if this is a horse?",
+        "category": "horse"
+    },
+    {
+        "sentence": "There is a spider in the picture.",
+        "category": "spider"
+    },
+    {
+        "sentence": "Help me out, is this a elephant?",
+        "category": "elephant"
+    },
+    {
+        "sentence": "Is this really a squirrel or something else?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Is that a squirrel in the picture?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "It appears there’s a hen in this shot.",
+        "category": "hen"
+    },
+    {
+        "sentence": "Looks like there’s a elephant in this image.",
+        "category": "elephant"
+    },
+    {
+        "sentence": "I’m pretty sure this is a dog, right?",
+        "category": "dog"
+    },
+    {
+        "sentence": "I guess that’s a panda in the background.",
+        "category": "panda"
+    },
+    {
+        "sentence": "I have a feeling that’s a cow.",
+        "category": "cow"
+    },
+    {
+        "sentence": "I have a feeling that’s a cat.",
+        "category": "cat"
+    },
+    {
+        "sentence": "It appears there’s a panda in this shot.",
+        "category": "panda"
+    },
+    {
+        "sentence": "There is a horse in the picture.",
+        "category": "horse"
+    },
+    {
+        "sentence": "Is there a monkey here, or am I wrong?",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I think I see a squirrel in this photo.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Is that a monkey in the picture?",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I wonder if this is actually a dog.",
+        "category": "dog"
+    },
+    {
+        "sentence": "Looks like there’s a monkey in this image.",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I wonder if this is actually a cow.",
+        "category": "cow"
+    },
+    {
+        "sentence": "This photo seems to have a cow, doesn’t it?",
+        "category": "cow"
+    },
+    {
+        "sentence": "Can someone confirm if this is a elephant?",
+        "category": "elephant"
+    },
+    {
+        "sentence": "I think I see a cow in this photo.",
+        "category": "cow"
+    },
+    {
+        "sentence": "I think I see a spider in this photo.",
+        "category": "spider"
+    },
+    {
+        "sentence": "I think I see a hen in this photo.",
+        "category": "hen"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a butterfly.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "Looks like there’s a spider in this image.",
+        "category": "spider"
+    },
+    {
+        "sentence": "Doesn’t this look like a panda to you?",
+        "category": "panda"
+    },
+    {
+        "sentence": "I guess that’s a elephant in the background.",
+        "category": "elephant"
+    },
+    {
+        "sentence": "Is there a cow here, or am I wrong?",
+        "category": "cow"
+    },
+    {
+        "sentence": "Doesn’t this look like a horse to you?",
+        "category": "horse"
+    },
+    {
+        "sentence": "Looks like there’s a cat in this image.",
+        "category": "cat"
+    },
+    {
+        "sentence": "Help me out, is this a cow?",
+        "category": "cow"
+    },
+    {
+        "sentence": "Is there a squirrel here, or am I wrong?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "I think I just found a panda in this image!",
+        "category": "panda"
+    },
+    {
+        "sentence": "Doesn’t this look like a cow to you?",
+        "category": "cow"
+    },
+    {
+        "sentence": "I guess that’s a spider in the background.",
+        "category": "spider"
+    },
+    {
+        "sentence": "Help me out, is this a spider?",
+        "category": "spider"
+    },
+    {
+        "sentence": "It appears there’s a panda in this shot.",
+        "category": "panda"
+    },
+    {
+        "sentence": "Can someone confirm if this is a hen?",
+        "category": "hen"
+    },
+    {
+        "sentence": "It appears there’s a squirrel in this shot.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "I spotted something that looks like a cat.",
+        "category": "cat"
+    },
+    {
+        "sentence": "Doesn’t this look like a monkey to you?",
+        "category": "monkey"
+    },
+    {
+        "sentence": "This photo seems to have a squirrel, doesn’t it?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a hen.",
+        "category": "hen"
+    },
+    {
+        "sentence": "It appears there’s a sheep in this shot.",
+        "category": "sheep"
+    },
+    {
+        "sentence": "I spotted something that looks like a monkey.",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a squirrel.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Looks like there’s a panda in this image.",
+        "category": "panda"
+    },
+    {
+        "sentence": "Doesn’t this look like a dog to you?",
+        "category": "dog"
+    },
+    {
+        "sentence": "Is there a horse here, or am I wrong?",
+        "category": "horse"
+    },
+    {
+        "sentence": "Can someone confirm if this is a horse?",
+        "category": "horse"
+    },
+    {
+        "sentence": "This photo seems to have a dog, doesn’t it?",
+        "category": "dog"
+    },
+    {
+        "sentence": "I think I just found a dog in this image!",
+        "category": "dog"
+    },
+    {
+        "sentence": "Is that a spider in the picture?",
+        "category": "spider"
+    },
+    {
+        "sentence": "Doesn’t this look like a monkey to you?",
+        "category": "monkey"
+    },
+    {
+        "sentence": "Do you also see a sheep in this picture?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "I have a feeling that’s a elephant.",
+        "category": "elephant"
+    },
+    {
+        "sentence": "I guess that’s a horse in the background.",
+        "category": "horse"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a monkey.",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I wonder if this is actually a hen.",
+        "category": "hen"
+    },
+    {
+        "sentence": "Doesn’t this look like a dog to you?",
+        "category": "dog"
+    },
+    {
+        "sentence": "I wonder if this is actually a dog.",
+        "category": "dog"
+    },
+    {
+        "sentence": "I’m pretty sure this is a panda, right?",
+        "category": "panda"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a hen.",
+        "category": "hen"
+    },
+    {
+        "sentence": "Help me out, is this a cat?",
+        "category": "cat"
+    },
+    {
+        "sentence": "Do you also see a sheep in this picture?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "Can someone confirm if this is a elephant?",
+        "category": "elephant"
+    },
+    {
+        "sentence": "I think I see a butterfly in this photo.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "Looks like there’s a sheep in this image.",
+        "category": "sheep"
+    },
+    {
+        "sentence": "Can someone confirm if this is a horse?",
+        "category": "horse"
+    },
+    {
+        "sentence": "I guess that’s a spider in the background.",
+        "category": "spider"
+    },
+    {
+        "sentence": "I think I see a dog in this photo.",
+        "category": "dog"
+    },
+    {
+        "sentence": "Help me out, is this a butterfly?",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "It appears there’s a hen in this shot.",
+        "category": "hen"
+    },
+    {
+        "sentence": "I spotted something that looks like a butterfly.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "I guess that’s a monkey in the background.",
+        "category": "monkey"
+    },
+    {
+        "sentence": "There is a dog in the picture.",
+        "category": "dog"
+    },
+    {
+        "sentence": "It appears there’s a hen in this shot.",
+        "category": "hen"
+    },
+    {
+        "sentence": "Do you also see a squirrel in this picture?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "I guess that’s a hen in the background.",
+        "category": "hen"
+    },
+    {
+        "sentence": "Can someone confirm if this is a hen?",
+        "category": "hen"
+    },
+    {
+        "sentence": "I’m pretty sure this is a panda, right?",
+        "category": "panda"
+    },
+    {
+        "sentence": "Help me out, is this a cow?",
+        "category": "cow"
+    },
+    {
+        "sentence": "I think I just found a spider in this image!",
+        "category": "spider"
+    },
+    {
+        "sentence": "I think I see a spider in this photo.",
+        "category": "spider"
+    },
+    {
+        "sentence": "Do you also see a cat in this picture?",
+        "category": "cat"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a spider.",
+        "category": "spider"
+    },
+    {
+        "sentence": "I think I see a butterfly in this photo.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "Can you tell if this is a hen?",
+        "category": "hen"
+    },
+    {
+        "sentence": "I have a feeling that’s a panda.",
+        "category": "panda"
+    },
+    {
+        "sentence": "This photo seems to have a sheep, doesn’t it?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "It appears there’s a spider in this shot.",
+        "category": "spider"
+    },
+    {
+        "sentence": "There is a sheep in the picture.",
+        "category": "sheep"
+    },
+    {
+        "sentence": "I wonder if this is actually a elephant.",
+        "category": "elephant"
+    },
+    {
+        "sentence": "I have a feeling that’s a sheep.",
+        "category": "sheep"
+    },
+    {
+        "sentence": "Do you also see a squirrel in this picture?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Help me out, is this a butterfly?",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "Is there a cat here, or am I wrong?",
+        "category": "cat"
+    },
+    {
+        "sentence": "I think I see a butterfly in this photo.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "Doesn’t this look like a cat to you?",
+        "category": "cat"
+    },
+    {
+        "sentence": "I think I just found a cat in this image!",
+        "category": "cat"
+    },
+    {
+        "sentence": "I have a feeling that’s a squirrel.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Doesn’t this look like a dog to you?",
+        "category": "dog"
+    },
+    {
+        "sentence": "I wonder if this is actually a sheep.",
+        "category": "sheep"
+    },
+    {
+        "sentence": "It appears there’s a sheep in this shot.",
+        "category": "sheep"
+    },
+    {
+        "sentence": "I’m pretty sure this is a squirrel, right?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Looks like there’s a dog in this image.",
+        "category": "dog"
+    },
+    {
+        "sentence": "It appears there’s a dog in this shot.",
+        "category": "dog"
+    },
+    {
+        "sentence": "Can someone confirm if this is a elephant?",
+        "category": "elephant"
+    },
+    {
+        "sentence": "Do you also see a sheep in this picture?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "Doesn’t this look like a sheep to you?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "Can you tell if this is a butterfly?",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "It appears there’s a panda in this shot.",
+        "category": "panda"
+    },
+    {
+        "sentence": "Is that a cow in the picture?",
+        "category": "cow"
+    },
+    {
+        "sentence": "Is there a hen here, or am I wrong?",
+        "category": "hen"
+    },
+    {
+        "sentence": "Is that a spider in the picture?",
+        "category": "spider"
+    },
+    {
+        "sentence": "I have a feeling that’s a butterfly.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "Can you tell if this is a cow?",
+        "category": "cow"
+    },
+    {
+        "sentence": "Is that a spider in the picture?",
+        "category": "spider"
+    },
+    {
+        "sentence": "I think I see a sheep in this photo.",
+        "category": "sheep"
+    },
+    {
+        "sentence": "Is there a dog here, or am I wrong?",
+        "category": "dog"
+    },
+    {
+        "sentence": "Looks like there’s a panda in this image.",
+        "category": "panda"
+    },
+    {
+        "sentence": "I think I see a horse in this photo.",
+        "category": "horse"
+    },
+    {
+        "sentence": "Can someone confirm if this is a horse?",
+        "category": "horse"
+    },
+    {
+        "sentence": "Can you tell if this is a butterfly?",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "Doesn’t this look like a monkey to you?",
+        "category": "monkey"
+    },
+    {
+        "sentence": "Is there a cat here, or am I wrong?",
+        "category": "cat"
+    },
+    {
+        "sentence": "I think I see a elephant in this photo.",
+        "category": "elephant"
+    },
+    {
+        "sentence": "I wonder if this is actually a panda.",
+        "category": "panda"
+    },
+    {
+        "sentence": "Help me out, is this a monkey?",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I wonder if this is actually a cow.",
+        "category": "cow"
+    },
+    {
+        "sentence": "Looks like there’s a cow in this image.",
+        "category": "cow"
+    },
+    {
+        "sentence": "Doesn’t this look like a elephant to you?",
+        "category": "elephant"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a monkey.",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I have a feeling that’s a butterfly.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "Is this really a cow or something else?",
+        "category": "cow"
+    },
+    {
+        "sentence": "Do you also see a dog in this picture?",
+        "category": "dog"
+    },
+    {
+        "sentence": "This photo seems to have a squirrel, doesn’t it?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "I’m pretty sure this is a dog, right?",
+        "category": "dog"
+    },
+    {
+        "sentence": "Is there a hen here, or am I wrong?",
+        "category": "hen"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a sheep.",
+        "category": "sheep"
+    },
+    {
+        "sentence": "I think I just found a horse in this image!",
+        "category": "horse"
+    },
+    {
+        "sentence": "Can someone confirm if this is a hen?",
+        "category": "hen"
+    },
+    {
+        "sentence": "I think I see a spider in this photo.",
+        "category": "spider"
+    },
+    {
+        "sentence": "I think I see a panda in this photo.",
+        "category": "panda"
+    },
+    {
+        "sentence": "Is this really a squirrel or something else?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "I have a feeling that’s a spider.",
+        "category": "spider"
+    },
+    {
+        "sentence": "Do you also see a hen in this picture?",
+        "category": "hen"
+    },
+    {
+        "sentence": "Is this really a spider or something else?",
+        "category": "spider"
+    },
+    {
+        "sentence": "Do you also see a spider in this picture?",
+        "category": "spider"
+    },
+    {
+        "sentence": "Looks like there’s a squirrel in this image.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "I wonder if this is actually a butterfly.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "I spotted something that looks like a cow.",
+        "category": "cow"
+    },
+    {
+        "sentence": "There is a butterfly in the picture.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "Is this really a monkey or something else?",
+        "category": "monkey"
+    },
+    {
+        "sentence": "Is there a squirrel here, or am I wrong?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Is there a hen here, or am I wrong?",
+        "category": "hen"
+    },
+    {
+        "sentence": "I wonder if this is actually a cow.",
+        "category": "cow"
+    },
+    {
+        "sentence": "I’m pretty sure this is a cow, right?",
+        "category": "cow"
+    },
+    {
+        "sentence": "Help me out, is this a elephant?",
+        "category": "elephant"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a squirrel.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "There is a horse in the picture.",
+        "category": "horse"
+    },
+    {
+        "sentence": "I think I just found a panda in this image!",
+        "category": "panda"
+    },
+    {
+        "sentence": "Help me out, is this a sheep?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "This photo seems to have a hen, doesn’t it?",
+        "category": "hen"
+    },
+    {
+        "sentence": "I guess that’s a horse in the background.",
+        "category": "horse"
+    },
+    {
+        "sentence": "There is a monkey in the picture.",
+        "category": "monkey"
+    },
+    {
+        "sentence": "Is this really a spider or something else?",
+        "category": "spider"
+    },
+    {
+        "sentence": "Is there a sheep here, or am I wrong?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "Looks like there’s a butterfly in this image.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "I think I just found a elephant in this image!",
+        "category": "elephant"
+    },
+    {
+        "sentence": "I wonder if this is actually a horse.",
+        "category": "horse"
+    },
+    {
+        "sentence": "Can someone confirm if this is a butterfly?",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a cow.",
+        "category": "cow"
+    },
+    {
+        "sentence": "Can someone confirm if this is a horse?",
+        "category": "horse"
+    },
+    {
+        "sentence": "It appears there’s a squirrel in this shot.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Can you tell if this is a monkey?",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I think I see a hen in this photo.",
+        "category": "hen"
+    },
+    {
+        "sentence": "Doesn’t this look like a elephant to you?",
+        "category": "elephant"
+    },
+    {
+        "sentence": "Help me out, is this a butterfly?",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "Can someone confirm if this is a panda?",
+        "category": "panda"
+    },
+    {
+        "sentence": "Looks like there’s a sheep in this image.",
+        "category": "sheep"
+    },
+    {
+        "sentence": "Help me out, is this a butterfly?",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "There is a cat in the picture.",
+        "category": "cat"
+    },
+    {
+        "sentence": "Can you tell if this is a horse?",
+        "category": "horse"
+    },
+    {
+        "sentence": "I wonder if this is actually a sheep.",
+        "category": "sheep"
+    },
+    {
+        "sentence": "Is that a dog in the picture?",
+        "category": "dog"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a cow.",
+        "category": "cow"
+    },
+    {
+        "sentence": "Is there a cat here, or am I wrong?",
+        "category": "cat"
+    },
+    {
+        "sentence": "I’m pretty sure this is a panda, right?",
+        "category": "panda"
+    },
+    {
+        "sentence": "I guess that’s a cat in the background.",
+        "category": "cat"
+    },
+    {
+        "sentence": "Do you also see a sheep in this picture?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a dog.",
+        "category": "dog"
+    },
+    {
+        "sentence": "Is this really a squirrel or something else?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Do you also see a panda in this picture?",
+        "category": "panda"
+    },
+    {
+        "sentence": "I have a feeling that’s a squirrel.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "I think I see a squirrel in this photo.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "There is a panda in the picture.",
+        "category": "panda"
+    },
+    {
+        "sentence": "I wonder if this is actually a dog.",
+        "category": "dog"
+    },
+    {
+        "sentence": "I think I just found a horse in this image!",
+        "category": "horse"
+    },
+    {
+        "sentence": "I think I see a elephant in this photo.",
+        "category": "elephant"
+    },
+    {
+        "sentence": "Do you also see a butterfly in this picture?",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "Do you also see a squirrel in this picture?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Help me out, is this a cow?",
+        "category": "cow"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a hen.",
+        "category": "hen"
+    },
+    {
+        "sentence": "I have a feeling that’s a cow.",
+        "category": "cow"
+    },
+    {
+        "sentence": "This photo seems to have a cat, doesn’t it?",
+        "category": "cat"
+    },
+    {
+        "sentence": "I guess that’s a cat in the background.",
+        "category": "cat"
+    },
+    {
+        "sentence": "I have a feeling that’s a horse.",
+        "category": "horse"
+    },
+    {
+        "sentence": "Do you also see a cow in this picture?",
+        "category": "cow"
+    },
+    {
+        "sentence": "I think I see a horse in this photo.",
+        "category": "horse"
+    },
+    {
+        "sentence": "It appears there’s a cow in this shot.",
+        "category": "cow"
+    },
+    {
+        "sentence": "I have a feeling that’s a butterfly.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "Can someone confirm if this is a squirrel?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Looks like there’s a cow in this image.",
+        "category": "cow"
+    },
+    {
+        "sentence": "I think I just found a horse in this image!",
+        "category": "horse"
+    },
+    {
+        "sentence": "Doesn’t this look like a squirrel to you?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Is that a squirrel in the picture?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "I think I see a monkey in this photo.",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I’m pretty sure this is a sheep, right?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "I think I see a panda in this photo.",
+        "category": "panda"
+    },
+    {
+        "sentence": "I spotted something that looks like a squirrel.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Do you also see a panda in this picture?",
+        "category": "panda"
+    },
+    {
+        "sentence": "I guess that’s a butterfly in the background.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "I spotted something that looks like a horse.",
+        "category": "horse"
+    },
+    {
+        "sentence": "There is a horse in the picture.",
+        "category": "horse"
+    },
+    {
+        "sentence": "Can you tell if this is a butterfly?",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "Do you also see a sheep in this picture?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "I think I just found a panda in this image!",
+        "category": "panda"
+    },
+    {
+        "sentence": "I think I just found a horse in this image!",
+        "category": "horse"
+    },
+    {
+        "sentence": "Is this really a panda or something else?",
+        "category": "panda"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a dog.",
+        "category": "dog"
+    },
+    {
+        "sentence": "Do you also see a butterfly in this picture?",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a hen.",
+        "category": "hen"
+    },
+    {
+        "sentence": "Doesn’t this look like a elephant to you?",
+        "category": "elephant"
+    },
+    {
+        "sentence": "This photo seems to have a horse, doesn’t it?",
+        "category": "horse"
+    },
+    {
+        "sentence": "Can you tell if this is a horse?",
+        "category": "horse"
+    },
+    {
+        "sentence": "I spotted something that looks like a dog.",
+        "category": "dog"
+    },
+    {
+        "sentence": "I have a feeling that’s a panda.",
+        "category": "panda"
+    },
+    {
+        "sentence": "Help me out, is this a hen?",
+        "category": "hen"
+    },
+    {
+        "sentence": "Looks like there’s a elephant in this image.",
+        "category": "elephant"
+    },
+    {
+        "sentence": "Is this really a sheep or something else?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "It appears there’s a horse in this shot.",
+        "category": "horse"
+    },
+    {
+        "sentence": "I spotted something that looks like a squirrel.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "I wonder if this is actually a squirrel.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "I spotted something that looks like a squirrel.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "It appears there’s a hen in this shot.",
+        "category": "hen"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a squirrel.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "I spotted something that looks like a cat.",
+        "category": "cat"
+    },
+    {
+        "sentence": "I guess that’s a dog in the background.",
+        "category": "dog"
+    },
+    {
+        "sentence": "Do you also see a spider in this picture?",
+        "category": "spider"
+    },
+    {
+        "sentence": "I have a feeling that’s a cow.",
+        "category": "cow"
+    },
+    {
+        "sentence": "Is there a horse here, or am I wrong?",
+        "category": "horse"
+    },
+    {
+        "sentence": "Looks like there’s a cow in this image.",
+        "category": "cow"
+    },
+    {
+        "sentence": "I wonder if this is actually a elephant.",
+        "category": "elephant"
+    },
+    {
+        "sentence": "Is that a hen in the picture?",
+        "category": "hen"
+    },
+    {
+        "sentence": "Is this really a squirrel or something else?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "This photo seems to have a panda, doesn’t it?",
+        "category": "panda"
+    },
+    {
+        "sentence": "Is there a butterfly here, or am I wrong?",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "I think I just found a horse in this image!",
+        "category": "horse"
+    },
+    {
+        "sentence": "Looks like there’s a butterfly in this image.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "Is this really a hen or something else?",
+        "category": "hen"
+    },
+    {
+        "sentence": "I guess that’s a butterfly in the background.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "Is there a horse here, or am I wrong?",
+        "category": "horse"
+    },
+    {
+        "sentence": "I guess that’s a dog in the background.",
+        "category": "dog"
+    },
+    {
+        "sentence": "I have a feeling that’s a hen.",
+        "category": "hen"
+    },
+    {
+        "sentence": "Do you also see a panda in this picture?",
+        "category": "panda"
+    },
+    {
+        "sentence": "It appears there’s a sheep in this shot.",
+        "category": "sheep"
+    },
+    {
+        "sentence": "I guess that’s a butterfly in the background.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "There is a panda in the picture.",
+        "category": "panda"
+    },
+    {
+        "sentence": "This photo seems to have a squirrel, doesn’t it?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Is this really a spider or something else?",
+        "category": "spider"
+    },
+    {
+        "sentence": "Help me out, is this a spider?",
+        "category": "spider"
+    },
+    {
+        "sentence": "I wonder if this is actually a spider.",
+        "category": "spider"
+    },
+    {
+        "sentence": "Help me out, is this a butterfly?",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "I think I just found a panda in this image!",
+        "category": "panda"
+    },
+    {
+        "sentence": "Is this really a butterfly or something else?",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "Help me out, is this a dog?",
+        "category": "dog"
+    },
+    {
+        "sentence": "I think I see a elephant in this photo.",
+        "category": "elephant"
+    },
+    {
+        "sentence": "I think I just found a cow in this image!",
+        "category": "cow"
+    },
+    {
+        "sentence": "I have a feeling that’s a sheep.",
+        "category": "sheep"
+    },
+    {
+        "sentence": "Can you tell if this is a sheep?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "I think I just found a squirrel in this image!",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Help me out, is this a elephant?",
+        "category": "elephant"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a monkey.",
+        "category": "monkey"
+    },
+    {
+        "sentence": "This photo seems to have a spider, doesn’t it?",
+        "category": "spider"
+    },
+    {
+        "sentence": "I spotted something that looks like a dog.",
+        "category": "dog"
+    },
+    {
+        "sentence": "Can someone confirm if this is a horse?",
+        "category": "horse"
+    },
+    {
+        "sentence": "It appears there’s a dog in this shot.",
+        "category": "dog"
+    },
+    {
+        "sentence": "There is a cat in the picture.",
+        "category": "cat"
+    },
+    {
+        "sentence": "I think I see a sheep in this photo.",
+        "category": "sheep"
+    },
+    {
+        "sentence": "I guess that’s a squirrel in the background.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Help me out, is this a dog?",
+        "category": "dog"
+    },
+    {
+        "sentence": "I think I just found a panda in this image!",
+        "category": "panda"
+    },
+    {
+        "sentence": "This photo seems to have a butterfly, doesn’t it?",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "It appears there’s a hen in this shot.",
+        "category": "hen"
+    },
+    {
+        "sentence": "Help me out, is this a cow?",
+        "category": "cow"
+    },
+    {
+        "sentence": "I think I just found a spider in this image!",
+        "category": "spider"
+    },
+    {
+        "sentence": "Is there a panda here, or am I wrong?",
+        "category": "panda"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a monkey.",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I have a feeling that’s a elephant.",
+        "category": "elephant"
+    },
+    {
+        "sentence": "I’m pretty sure this is a sheep, right?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "Doesn’t this look like a dog to you?",
+        "category": "dog"
+    },
+    {
+        "sentence": "This photo seems to have a monkey, doesn’t it?",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I’m pretty sure this is a elephant, right?",
+        "category": "elephant"
+    },
+    {
+        "sentence": "I spotted something that looks like a sheep.",
+        "category": "sheep"
+    },
+    {
+        "sentence": "I think I just found a panda in this image!",
+        "category": "panda"
+    },
+    {
+        "sentence": "I’m pretty sure this is a cat, right?",
+        "category": "cat"
+    },
+    {
+        "sentence": "Can someone confirm if this is a dog?",
+        "category": "dog"
+    },
+    {
+        "sentence": "Looks like there’s a monkey in this image.",
+        "category": "monkey"
+    },
+    {
+        "sentence": "Help me out, is this a dog?",
+        "category": "dog"
+    },
+    {
+        "sentence": "Looks like there’s a spider in this image.",
+        "category": "spider"
+    },
+    {
+        "sentence": "I think I just found a dog in this image!",
+        "category": "dog"
+    },
+    {
+        "sentence": "I think I just found a spider in this image!",
+        "category": "spider"
+    },
+    {
+        "sentence": "There is a spider in the picture.",
+        "category": "spider"
+    },
+    {
+        "sentence": "I have a feeling that’s a hen.",
+        "category": "hen"
+    },
+    {
+        "sentence": "Help me out, is this a panda?",
+        "category": "panda"
+    },
+    {
+        "sentence": "Doesn’t this look like a spider to you?",
+        "category": "spider"
+    },
+    {
+        "sentence": "Do you also see a sheep in this picture?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "It appears there’s a spider in this shot.",
+        "category": "spider"
+    },
+    {
+        "sentence": "I wonder if this is actually a squirrel.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Do you also see a elephant in this picture?",
+        "category": "elephant"
+    },
+    {
+        "sentence": "I’m pretty sure this is a spider, right?",
+        "category": "spider"
+    },
+    {
+        "sentence": "I spotted something that looks like a sheep.",
+        "category": "sheep"
+    },
+    {
+        "sentence": "Do you also see a cow in this picture?",
+        "category": "cow"
+    },
+    {
+        "sentence": "Can you tell if this is a sheep?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "Help me out, is this a panda?",
+        "category": "panda"
+    },
+    {
+        "sentence": "I guess that’s a monkey in the background.",
+        "category": "monkey"
+    },
+    {
+        "sentence": "Do you also see a cat in this picture?",
+        "category": "cat"
+    },
+    {
+        "sentence": "This photo seems to have a monkey, doesn’t it?",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I think I see a panda in this photo.",
+        "category": "panda"
+    },
+    {
+        "sentence": "Is there a sheep here, or am I wrong?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "I think I see a hen in this photo.",
+        "category": "hen"
+    },
+    {
+        "sentence": "I’m pretty sure this is a monkey, right?",
+        "category": "monkey"
+    },
+    {
+        "sentence": "Do you also see a panda in this picture?",
+        "category": "panda"
+    },
+    {
+        "sentence": "I wonder if this is actually a horse.",
+        "category": "horse"
+    },
+    {
+        "sentence": "Do you also see a butterfly in this picture?",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "I think I see a butterfly in this photo.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "Is that a monkey in the picture?",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I’m pretty sure this is a horse, right?",
+        "category": "horse"
+    },
+    {
+        "sentence": "I have a feeling that’s a dog.",
+        "category": "dog"
+    },
+    {
+        "sentence": "I wonder if this is actually a sheep.",
+        "category": "sheep"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a dog.",
+        "category": "dog"
+    },
+    {
+        "sentence": "Help me out, is this a spider?",
+        "category": "spider"
+    },
+    {
+        "sentence": "I guess that’s a sheep in the background.",
+        "category": "sheep"
+    },
+    {
+        "sentence": "It appears there’s a butterfly in this shot.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "Can you tell if this is a elephant?",
+        "category": "elephant"
+    },
+    {
+        "sentence": "I’m pretty sure this is a monkey, right?",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I think I see a elephant in this photo.",
+        "category": "elephant"
+    },
+    {
+        "sentence": "This photo seems to have a hen, doesn’t it?",
+        "category": "hen"
+    },
+    {
+        "sentence": "Can someone confirm if this is a butterfly?",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "I have a feeling that’s a elephant.",
+        "category": "elephant"
+    },
+    {
+        "sentence": "There is a panda in the picture.",
+        "category": "panda"
+    },
+    {
+        "sentence": "There is a cow in the picture.",
+        "category": "cow"
+    },
+    {
+        "sentence": "There is a elephant in the picture.",
+        "category": "elephant"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a panda.",
+        "category": "panda"
+    },
+    {
+        "sentence": "There is a monkey in the picture.",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I spotted something that looks like a monkey.",
+        "category": "monkey"
+    },
+    {
+        "sentence": "Can someone confirm if this is a hen?",
+        "category": "hen"
+    },
+    {
+        "sentence": "I have a feeling that’s a hen.",
+        "category": "hen"
+    },
+    {
+        "sentence": "I think I see a sheep in this photo.",
+        "category": "sheep"
+    },
+    {
+        "sentence": "Looks like there’s a panda in this image.",
+        "category": "panda"
+    },
+    {
+        "sentence": "It appears there’s a monkey in this shot.",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I think I just found a butterfly in this image!",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "I think I see a cat in this photo.",
+        "category": "cat"
+    },
+    {
+        "sentence": "This photo seems to have a spider, doesn’t it?",
+        "category": "spider"
+    },
+    {
+        "sentence": "Is that a cat in the picture?",
+        "category": "cat"
+    },
+    {
+        "sentence": "I think I see a squirrel in this photo.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "There is a elephant in the picture.",
+        "category": "elephant"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a hen.",
+        "category": "hen"
+    },
+    {
+        "sentence": "Help me out, is this a squirrel?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Doesn’t this look like a dog to you?",
+        "category": "dog"
+    },
+    {
+        "sentence": "Can you tell if this is a elephant?",
+        "category": "elephant"
+    },
+    {
+        "sentence": "I guess that’s a cat in the background.",
+        "category": "cat"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a panda.",
+        "category": "panda"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a dog.",
+        "category": "dog"
+    },
+    {
+        "sentence": "Can you tell if this is a sheep?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "Looks like there’s a horse in this image.",
+        "category": "horse"
+    },
+    {
+        "sentence": "It appears there’s a squirrel in this shot.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "I’m pretty sure this is a panda, right?",
+        "category": "panda"
+    },
+    {
+        "sentence": "There is a sheep in the picture.",
+        "category": "sheep"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a panda.",
+        "category": "panda"
+    },
+    {
+        "sentence": "I wonder if this is actually a panda.",
+        "category": "panda"
+    },
+    {
+        "sentence": "Looks like there’s a hen in this image.",
+        "category": "hen"
+    },
+    {
+        "sentence": "I have a feeling that’s a sheep.",
+        "category": "sheep"
+    },
+    {
+        "sentence": "Is this really a monkey or something else?",
+        "category": "monkey"
+    },
+    {
+        "sentence": "Is this really a hen or something else?",
+        "category": "hen"
+    },
+    {
+        "sentence": "Do you also see a horse in this picture?",
+        "category": "horse"
+    },
+    {
+        "sentence": "I spotted something that looks like a cat.",
+        "category": "cat"
+    },
+    {
+        "sentence": "I guess that’s a spider in the background.",
+        "category": "spider"
+    },
+    {
+        "sentence": "I wonder if this is actually a spider.",
+        "category": "spider"
+    },
+    {
+        "sentence": "Can someone confirm if this is a hen?",
+        "category": "hen"
+    },
+    {
+        "sentence": "I spotted something that looks like a cow.",
+        "category": "cow"
+    },
+    {
+        "sentence": "It appears there’s a hen in this shot.",
+        "category": "hen"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a monkey.",
+        "category": "monkey"
+    },
+    {
+        "sentence": "Looks like there’s a butterfly in this image.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "It appears there’s a elephant in this shot.",
+        "category": "elephant"
+    },
+    {
+        "sentence": "I have a feeling that’s a hen.",
+        "category": "hen"
+    },
+    {
+        "sentence": "Is that a monkey in the picture?",
+        "category": "monkey"
+    },
+    {
+        "sentence": "Is that a butterfly in the picture?",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "I guess that’s a panda in the background.",
+        "category": "panda"
+    },
+    {
+        "sentence": "This photo seems to have a hen, doesn’t it?",
+        "category": "hen"
+    },
+    {
+        "sentence": "Is this really a butterfly or something else?",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "This photo seems to have a dog, doesn’t it?",
+        "category": "dog"
+    },
+    {
+        "sentence": "I guess that’s a butterfly in the background.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "I guess that’s a dog in the background.",
+        "category": "dog"
+    },
+    {
+        "sentence": "I’m pretty sure this is a sheep, right?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "Can someone confirm if this is a squirrel?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Can someone confirm if this is a dog?",
+        "category": "dog"
+    },
+    {
+        "sentence": "I think I see a dog in this photo.",
+        "category": "dog"
+    },
+    {
+        "sentence": "I think I just found a elephant in this image!",
+        "category": "elephant"
+    },
+    {
+        "sentence": "I have a feeling that’s a sheep.",
+        "category": "sheep"
+    },
+    {
+        "sentence": "Is that a elephant in the picture?",
+        "category": "elephant"
+    },
+    {
+        "sentence": "Can someone confirm if this is a elephant?",
+        "category": "elephant"
+    },
+    {
+        "sentence": "Is this really a dog or something else?",
+        "category": "dog"
+    },
+    {
+        "sentence": "I think I just found a monkey in this image!",
+        "category": "monkey"
+    },
+    {
+        "sentence": "Help me out, is this a horse?",
+        "category": "horse"
+    },
+    {
+        "sentence": "I spotted something that looks like a cat.",
+        "category": "cat"
+    },
+    {
+        "sentence": "There is a cow in the picture.",
+        "category": "cow"
+    },
+    {
+        "sentence": "Can you tell if this is a sheep?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "I think I see a monkey in this photo.",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a sheep.",
+        "category": "sheep"
+    },
+    {
+        "sentence": "I guess that’s a horse in the background.",
+        "category": "horse"
+    },
+    {
+        "sentence": "I think I see a butterfly in this photo.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "Looks like there’s a cat in this image.",
+        "category": "cat"
+    },
+    {
+        "sentence": "Do you also see a elephant in this picture?",
+        "category": "elephant"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a monkey.",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I think I just found a sheep in this image!",
+        "category": "sheep"
+    },
+    {
+        "sentence": "I’m pretty sure this is a panda, right?",
+        "category": "panda"
+    },
+    {
+        "sentence": "Is this really a cat or something else?",
+        "category": "cat"
+    },
+    {
+        "sentence": "I wonder if this is actually a monkey.",
+        "category": "monkey"
+    },
+    {
+        "sentence": "Doesn’t this look like a cat to you?",
+        "category": "cat"
+    },
+    {
+        "sentence": "Do you also see a cat in this picture?",
+        "category": "cat"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a hen.",
+        "category": "hen"
+    },
+    {
+        "sentence": "Help me out, is this a cow?",
+        "category": "cow"
+    },
+    {
+        "sentence": "I think I see a butterfly in this photo.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a butterfly.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "Looks like there’s a elephant in this image.",
+        "category": "elephant"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a cow.",
+        "category": "cow"
+    },
+    {
+        "sentence": "This photo seems to have a sheep, doesn’t it?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "I guess that’s a dog in the background.",
+        "category": "dog"
+    },
+    {
+        "sentence": "I spotted something that looks like a hen.",
+        "category": "hen"
+    },
+    {
+        "sentence": "Looks like there’s a horse in this image.",
+        "category": "horse"
+    },
+    {
+        "sentence": "Help me out, is this a panda?",
+        "category": "panda"
+    },
+    {
+        "sentence": "There is a panda in the picture.",
+        "category": "panda"
+    },
+    {
+        "sentence": "I guess that’s a monkey in the background.",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I think I just found a hen in this image!",
+        "category": "hen"
+    },
+    {
+        "sentence": "This photo seems to have a spider, doesn’t it?",
+        "category": "spider"
+    },
+    {
+        "sentence": "Is there a hen here, or am I wrong?",
+        "category": "hen"
+    },
+    {
+        "sentence": "Help me out, is this a hen?",
+        "category": "hen"
+    },
+    {
+        "sentence": "Is there a cat here, or am I wrong?",
+        "category": "cat"
+    },
+    {
+        "sentence": "I have a feeling that’s a squirrel.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "I wonder if this is actually a monkey.",
+        "category": "monkey"
+    },
+    {
+        "sentence": "Do you also see a cat in this picture?",
+        "category": "cat"
+    },
+    {
+        "sentence": "There is a horse in the picture.",
+        "category": "horse"
+    },
+    {
+        "sentence": "I guess that’s a cow in the background.",
+        "category": "cow"
+    },
+    {
+        "sentence": "Can someone confirm if this is a hen?",
+        "category": "hen"
+    },
+    {
+        "sentence": "Can someone confirm if this is a cow?",
+        "category": "cow"
+    },
+    {
+        "sentence": "It appears there’s a spider in this shot.",
+        "category": "spider"
+    },
+    {
+        "sentence": "It appears there’s a sheep in this shot.",
+        "category": "sheep"
+    },
+    {
+        "sentence": "This photo seems to have a sheep, doesn’t it?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "I have a feeling that’s a cat.",
+        "category": "cat"
+    },
+    {
+        "sentence": "Is there a monkey here, or am I wrong?",
+        "category": "monkey"
+    },
+    {
+        "sentence": "Do you also see a cat in this picture?",
+        "category": "cat"
+    },
+    {
+        "sentence": "Help me out, is this a panda?",
+        "category": "panda"
+    },
+    {
+        "sentence": "Doesn’t this look like a hen to you?",
+        "category": "hen"
+    },
+    {
+        "sentence": "I wonder if this is actually a horse.",
+        "category": "horse"
+    },
+    {
+        "sentence": "Do you also see a panda in this picture?",
+        "category": "panda"
+    },
+    {
+        "sentence": "Can you tell if this is a cow?",
+        "category": "cow"
+    },
+    {
+        "sentence": "I think I just found a sheep in this image!",
+        "category": "sheep"
+    },
+    {
+        "sentence": "Is there a panda here, or am I wrong?",
+        "category": "panda"
+    },
+    {
+        "sentence": "It appears there’s a hen in this shot.",
+        "category": "hen"
+    },
+    {
+        "sentence": "I’m pretty sure this is a panda, right?",
+        "category": "panda"
+    },
+    {
+        "sentence": "Do you also see a dog in this picture?",
+        "category": "dog"
+    },
+    {
+        "sentence": "Can you tell if this is a sheep?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "I spotted something that looks like a butterfly.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "Can someone confirm if this is a cat?",
+        "category": "cat"
+    },
+    {
+        "sentence": "Is there a cow here, or am I wrong?",
+        "category": "cow"
+    },
+    {
+        "sentence": "I guess that’s a sheep in the background.",
+        "category": "sheep"
+    },
+    {
+        "sentence": "I spotted something that looks like a cow.",
+        "category": "cow"
+    },
+    {
+        "sentence": "I guess that’s a panda in the background.",
+        "category": "panda"
+    },
+    {
+        "sentence": "This photo seems to have a spider, doesn’t it?",
+        "category": "spider"
+    },
+    {
+        "sentence": "Is this really a sheep or something else?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "I have a feeling that’s a cow.",
+        "category": "cow"
+    },
+    {
+        "sentence": "It appears there’s a butterfly in this shot.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "I think I see a squirrel in this photo.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Can someone confirm if this is a dog?",
+        "category": "dog"
+    },
+    {
+        "sentence": "I think I see a horse in this photo.",
+        "category": "horse"
+    },
+    {
+        "sentence": "I guess that’s a cat in the background.",
+        "category": "cat"
+    },
+    {
+        "sentence": "Looks like there’s a sheep in this image.",
+        "category": "sheep"
+    },
+    {
+        "sentence": "It appears there’s a sheep in this shot.",
+        "category": "sheep"
+    },
+    {
+        "sentence": "I’m pretty sure this is a monkey, right?",
+        "category": "monkey"
+    },
+    {
+        "sentence": "Is this really a hen or something else?",
+        "category": "hen"
+    },
+    {
+        "sentence": "Is that a cow in the picture?",
+        "category": "cow"
+    },
+    {
+        "sentence": "Do you also see a panda in this picture?",
+        "category": "panda"
+    },
+    {
+        "sentence": "It appears there’s a dog in this shot.",
+        "category": "dog"
+    },
+    {
+        "sentence": "Can you tell if this is a panda?",
+        "category": "panda"
+    },
+    {
+        "sentence": "I spotted something that looks like a dog.",
+        "category": "dog"
+    },
+    {
+        "sentence": "It appears there’s a elephant in this shot.",
+        "category": "elephant"
+    },
+    {
+        "sentence": "I think I see a squirrel in this photo.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Looks like there’s a hen in this image.",
+        "category": "hen"
+    },
+    {
+        "sentence": "I have a feeling that’s a panda.",
+        "category": "panda"
+    },
+    {
+        "sentence": "Is this really a squirrel or something else?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Do you also see a panda in this picture?",
+        "category": "panda"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a spider.",
+        "category": "spider"
+    },
+    {
+        "sentence": "Looks like there’s a spider in this image.",
+        "category": "spider"
+    },
+    {
+        "sentence": "Can you tell if this is a dog?",
+        "category": "dog"
+    },
+    {
+        "sentence": "I think I just found a cat in this image!",
+        "category": "cat"
+    },
+    {
+        "sentence": "It appears there’s a elephant in this shot.",
+        "category": "elephant"
+    },
+    {
+        "sentence": "Do you also see a panda in this picture?",
+        "category": "panda"
+    },
+    {
+        "sentence": "Is that a panda in the picture?",
+        "category": "panda"
+    },
+    {
+        "sentence": "I wonder if this is actually a elephant.",
+        "category": "elephant"
+    },
+    {
+        "sentence": "Help me out, is this a butterfly?",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "Is this really a dog or something else?",
+        "category": "dog"
+    },
+    {
+        "sentence": "There is a cow in the picture.",
+        "category": "cow"
+    },
+    {
+        "sentence": "Can someone confirm if this is a hen?",
+        "category": "hen"
+    },
+    {
+        "sentence": "I think I just found a hen in this image!",
+        "category": "hen"
+    },
+    {
+        "sentence": "Help me out, is this a squirrel?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "I spotted something that looks like a cat.",
+        "category": "cat"
+    },
+    {
+        "sentence": "I spotted something that looks like a panda.",
+        "category": "panda"
+    },
+    {
+        "sentence": "It appears there’s a horse in this shot.",
+        "category": "horse"
+    },
+    {
+        "sentence": "I guess that’s a squirrel in the background.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Help me out, is this a cow?",
+        "category": "cow"
+    },
+    {
+        "sentence": "I think I see a squirrel in this photo.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Looks like there’s a horse in this image.",
+        "category": "horse"
+    },
+    {
+        "sentence": "Looks like there’s a butterfly in this image.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "Is this really a dog or something else?",
+        "category": "dog"
+    },
+    {
+        "sentence": "Is there a squirrel here, or am I wrong?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Is that a panda in the picture?",
+        "category": "panda"
+    },
+    {
+        "sentence": "I’m pretty sure this is a sheep, right?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "Do you also see a spider in this picture?",
+        "category": "spider"
+    },
+    {
+        "sentence": "I’m pretty sure this is a cat, right?",
+        "category": "cat"
+    },
+    {
+        "sentence": "Doesn’t this look like a cat to you?",
+        "category": "cat"
+    },
+    {
+        "sentence": "There is a cow in the picture.",
+        "category": "cow"
+    },
+    {
+        "sentence": "I wonder if this is actually a sheep.",
+        "category": "sheep"
+    },
+    {
+        "sentence": "There is a elephant in the picture.",
+        "category": "elephant"
+    },
+    {
+        "sentence": "I guess that’s a horse in the background.",
+        "category": "horse"
+    },
+    {
+        "sentence": "Can someone confirm if this is a elephant?",
+        "category": "elephant"
+    },
+    {
+        "sentence": "It appears there’s a squirrel in this shot.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "It appears there’s a cow in this shot.",
+        "category": "cow"
+    },
+    {
+        "sentence": "I wonder if this is actually a squirrel.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Can someone confirm if this is a panda?",
+        "category": "panda"
+    },
+    {
+        "sentence": "Is this really a spider or something else?",
+        "category": "spider"
+    },
+    {
+        "sentence": "Is this really a hen or something else?",
+        "category": "hen"
+    },
+    {
+        "sentence": "Is this really a panda or something else?",
+        "category": "panda"
+    },
+    {
+        "sentence": "Can someone confirm if this is a elephant?",
+        "category": "elephant"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a horse.",
+        "category": "horse"
+    },
+    {
+        "sentence": "Looks like there’s a monkey in this image.",
+        "category": "monkey"
+    },
+    {
+        "sentence": "Doesn’t this look like a cat to you?",
+        "category": "cat"
+    },
+    {
+        "sentence": "Can someone confirm if this is a spider?",
+        "category": "spider"
+    },
+    {
+        "sentence": "I wonder if this is actually a elephant.",
+        "category": "elephant"
+    },
+    {
+        "sentence": "I wonder if this is actually a dog.",
+        "category": "dog"
+    },
+    {
+        "sentence": "I wonder if this is actually a squirrel.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Doesn’t this look like a horse to you?",
+        "category": "horse"
+    },
+    {
+        "sentence": "I have a feeling that’s a butterfly.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "Is that a cat in the picture?",
+        "category": "cat"
+    },
+    {
+        "sentence": "Do you also see a butterfly in this picture?",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a squirrel.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "I wonder if this is actually a sheep.",
+        "category": "sheep"
+    },
+    {
+        "sentence": "I think I just found a sheep in this image!",
+        "category": "sheep"
+    },
+    {
+        "sentence": "I’m pretty sure this is a panda, right?",
+        "category": "panda"
+    },
+    {
+        "sentence": "Help me out, is this a elephant?",
+        "category": "elephant"
+    },
+    {
+        "sentence": "Is there a elephant here, or am I wrong?",
+        "category": "elephant"
+    },
+    {
+        "sentence": "I spotted something that looks like a dog.",
+        "category": "dog"
+    },
+    {
+        "sentence": "Can someone confirm if this is a cat?",
+        "category": "cat"
+    },
+    {
+        "sentence": "Do you also see a horse in this picture?",
+        "category": "horse"
+    },
+    {
+        "sentence": "There is a horse in the picture.",
+        "category": "horse"
+    },
+    {
+        "sentence": "Is that a elephant in the picture?",
+        "category": "elephant"
+    },
+    {
+        "sentence": "There is a cow in the picture.",
+        "category": "cow"
+    },
+    {
+        "sentence": "I think I just found a panda in this image!",
+        "category": "panda"
+    },
+    {
+        "sentence": "Can someone confirm if this is a sheep?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "I spotted something that looks like a dog.",
+        "category": "dog"
+    },
+    {
+        "sentence": "I wonder if this is actually a panda.",
+        "category": "panda"
+    },
+    {
+        "sentence": "It appears there’s a dog in this shot.",
+        "category": "dog"
+    },
+    {
+        "sentence": "I spotted something that looks like a elephant.",
+        "category": "elephant"
+    },
+    {
+        "sentence": "Is that a spider in the picture?",
+        "category": "spider"
+    },
+    {
+        "sentence": "There is a panda in the picture.",
+        "category": "panda"
+    },
+    {
+        "sentence": "There is a cow in the picture.",
+        "category": "cow"
+    },
+    {
+        "sentence": "I wonder if this is actually a sheep.",
+        "category": "sheep"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a panda.",
+        "category": "panda"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a monkey.",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a hen.",
+        "category": "hen"
+    },
+    {
+        "sentence": "Do you also see a horse in this picture?",
+        "category": "horse"
+    },
+    {
+        "sentence": "I’m pretty sure this is a butterfly, right?",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "Do you also see a panda in this picture?",
+        "category": "panda"
+    },
+    {
+        "sentence": "There is a cat in the picture.",
+        "category": "cat"
+    },
+    {
+        "sentence": "I think I just found a hen in this image!",
+        "category": "hen"
+    },
+    {
+        "sentence": "Is there a cat here, or am I wrong?",
+        "category": "cat"
+    },
+    {
+        "sentence": "This photo seems to have a panda, doesn’t it?",
+        "category": "panda"
+    },
+    {
+        "sentence": "This photo seems to have a monkey, doesn’t it?",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a elephant.",
+        "category": "elephant"
+    },
+    {
+        "sentence": "There is a panda in the picture.",
+        "category": "panda"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a dog.",
+        "category": "dog"
+    },
+    {
+        "sentence": "I think I just found a sheep in this image!",
+        "category": "sheep"
+    },
+    {
+        "sentence": "I wonder if this is actually a monkey.",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I’m pretty sure this is a cat, right?",
+        "category": "cat"
+    },
+    {
+        "sentence": "Can you tell if this is a hen?",
+        "category": "hen"
+    },
+    {
+        "sentence": "I guess that’s a elephant in the background.",
+        "category": "elephant"
+    },
+    {
+        "sentence": "Do you also see a elephant in this picture?",
+        "category": "elephant"
+    },
+    {
+        "sentence": "I wonder if this is actually a panda.",
+        "category": "panda"
+    },
+    {
+        "sentence": "Can someone confirm if this is a cat?",
+        "category": "cat"
+    },
+    {
+        "sentence": "It appears there’s a horse in this shot.",
+        "category": "horse"
+    },
+    {
+        "sentence": "Help me out, is this a panda?",
+        "category": "panda"
+    },
+    {
+        "sentence": "Can you tell if this is a hen?",
+        "category": "hen"
+    },
+    {
+        "sentence": "There is a spider in the picture.",
+        "category": "spider"
+    },
+    {
+        "sentence": "Can someone confirm if this is a cat?",
+        "category": "cat"
+    },
+    {
+        "sentence": "Is that a elephant in the picture?",
+        "category": "elephant"
+    },
+    {
+        "sentence": "Can you tell if this is a elephant?",
+        "category": "elephant"
+    },
+    {
+        "sentence": "I’m pretty sure this is a squirrel, right?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "It appears there’s a cat in this shot.",
+        "category": "cat"
+    },
+    {
+        "sentence": "There is a butterfly in the picture.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "I have a feeling that’s a squirrel.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Can someone confirm if this is a dog?",
+        "category": "dog"
+    },
+    {
+        "sentence": "I spotted something that looks like a spider.",
+        "category": "spider"
+    },
+    {
+        "sentence": "Is this really a squirrel or something else?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "I’m pretty sure this is a squirrel, right?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Is that a squirrel in the picture?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Is that a butterfly in the picture?",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "I wonder if this is actually a cow.",
+        "category": "cow"
+    },
+    {
+        "sentence": "Is that a panda in the picture?",
+        "category": "panda"
+    },
+    {
+        "sentence": "There is a spider in the picture.",
+        "category": "spider"
+    },
+    {
+        "sentence": "I wonder if this is actually a elephant.",
+        "category": "elephant"
+    },
+    {
+        "sentence": "Do you also see a panda in this picture?",
+        "category": "panda"
+    },
+    {
+        "sentence": "Do you also see a dog in this picture?",
+        "category": "dog"
+    },
+    {
+        "sentence": "Looks like there’s a horse in this image.",
+        "category": "horse"
+    },
+    {
+        "sentence": "Doesn’t this look like a monkey to you?",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I have a feeling that’s a butterfly.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a squirrel.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "I’m pretty sure this is a butterfly, right?",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "Help me out, is this a horse?",
+        "category": "horse"
+    },
+    {
+        "sentence": "I think I just found a dog in this image!",
+        "category": "dog"
+    },
+    {
+        "sentence": "I spotted something that looks like a cow.",
+        "category": "cow"
+    },
+    {
+        "sentence": "I think I see a squirrel in this photo.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Is this really a elephant or something else?",
+        "category": "elephant"
+    },
+    {
+        "sentence": "This photo seems to have a monkey, doesn’t it?",
+        "category": "monkey"
+    },
+    {
+        "sentence": "Is this really a dog or something else?",
+        "category": "dog"
+    },
+    {
+        "sentence": "There is a panda in the picture.",
+        "category": "panda"
+    },
+    {
+        "sentence": "It appears there’s a cow in this shot.",
+        "category": "cow"
+    },
+    {
+        "sentence": "Can someone confirm if this is a squirrel?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Looks like there’s a squirrel in this image.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Can someone confirm if this is a spider?",
+        "category": "spider"
+    },
+    {
+        "sentence": "There is a monkey in the picture.",
+        "category": "monkey"
+    },
+    {
+        "sentence": "Looks like there’s a butterfly in this image.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "I’m pretty sure this is a monkey, right?",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a squirrel.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "It appears there’s a monkey in this shot.",
+        "category": "monkey"
+    },
+    {
+        "sentence": "Doesn’t this look like a squirrel to you?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "I’m pretty sure this is a monkey, right?",
+        "category": "monkey"
+    },
+    {
+        "sentence": "Is this really a cat or something else?",
+        "category": "cat"
+    },
+    {
+        "sentence": "Is that a dog in the picture?",
+        "category": "dog"
+    },
+    {
+        "sentence": "I think I just found a spider in this image!",
+        "category": "spider"
+    },
+    {
+        "sentence": "Do you also see a sheep in this picture?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "I’m pretty sure this is a elephant, right?",
+        "category": "elephant"
+    },
+    {
+        "sentence": "Can you tell if this is a hen?",
+        "category": "hen"
+    },
+    {
+        "sentence": "I think I see a monkey in this photo.",
+        "category": "monkey"
+    },
+    {
+        "sentence": "Doesn’t this look like a panda to you?",
+        "category": "panda"
+    },
+    {
+        "sentence": "I think I just found a horse in this image!",
+        "category": "horse"
+    },
+    {
+        "sentence": "Do you also see a horse in this picture?",
+        "category": "horse"
+    },
+    {
+        "sentence": "Do you also see a monkey in this picture?",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I think I see a panda in this photo.",
+        "category": "panda"
+    },
+    {
+        "sentence": "Looks like there’s a squirrel in this image.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Do you also see a cat in this picture?",
+        "category": "cat"
+    },
+    {
+        "sentence": "Do you also see a spider in this picture?",
+        "category": "spider"
+    },
+    {
+        "sentence": "Is this really a hen or something else?",
+        "category": "hen"
+    },
+    {
+        "sentence": "There is a panda in the picture.",
+        "category": "panda"
+    },
+    {
+        "sentence": "Is there a squirrel here, or am I wrong?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Help me out, is this a squirrel?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "I’m pretty sure this is a elephant, right?",
+        "category": "elephant"
+    },
+    {
+        "sentence": "It appears there’s a squirrel in this shot.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Help me out, is this a hen?",
+        "category": "hen"
+    },
+    {
+        "sentence": "I have a feeling that’s a panda.",
+        "category": "panda"
+    },
+    {
+        "sentence": "Doesn’t this look like a dog to you?",
+        "category": "dog"
+    },
+    {
+        "sentence": "Is there a panda here, or am I wrong?",
+        "category": "panda"
+    },
+    {
+        "sentence": "Do you also see a sheep in this picture?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "It appears there’s a cow in this shot.",
+        "category": "cow"
+    },
+    {
+        "sentence": "There is a butterfly in the picture.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "There is a spider in the picture.",
+        "category": "spider"
+    },
+    {
+        "sentence": "I’m pretty sure this is a cow, right?",
+        "category": "cow"
+    },
+    {
+        "sentence": "I wonder if this is actually a horse.",
+        "category": "horse"
+    },
+    {
+        "sentence": "Can you tell if this is a elephant?",
+        "category": "elephant"
+    },
+    {
+        "sentence": "Can you tell if this is a hen?",
+        "category": "hen"
+    },
+    {
+        "sentence": "Can someone confirm if this is a elephant?",
+        "category": "elephant"
+    },
+    {
+        "sentence": "I think I see a sheep in this photo.",
+        "category": "sheep"
+    },
+    {
+        "sentence": "I think I just found a hen in this image!",
+        "category": "hen"
+    },
+    {
+        "sentence": "Is this really a panda or something else?",
+        "category": "panda"
+    },
+    {
+        "sentence": "Can you tell if this is a hen?",
+        "category": "hen"
+    },
+    {
+        "sentence": "Can you tell if this is a sheep?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "Doesn’t this look like a hen to you?",
+        "category": "hen"
+    },
+    {
+        "sentence": "There is a monkey in the picture.",
+        "category": "monkey"
+    },
+    {
+        "sentence": "There is a cat in the picture.",
+        "category": "cat"
+    },
+    {
+        "sentence": "Is that a monkey in the picture?",
+        "category": "monkey"
+    },
+    {
+        "sentence": "Doesn’t this look like a cow to you?",
+        "category": "cow"
+    },
+    {
+        "sentence": "I think I just found a monkey in this image!",
+        "category": "monkey"
+    },
+    {
+        "sentence": "It appears there’s a sheep in this shot.",
+        "category": "sheep"
+    },
+    {
+        "sentence": "I wonder if this is actually a monkey.",
+        "category": "monkey"
+    },
+    {
+        "sentence": "There is a squirrel in the picture.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "I guess that’s a elephant in the background.",
+        "category": "elephant"
+    },
+    {
+        "sentence": "I spotted something that looks like a cow.",
+        "category": "cow"
+    },
+    {
+        "sentence": "It appears there’s a panda in this shot.",
+        "category": "panda"
+    },
+    {
+        "sentence": "I’m pretty sure this is a horse, right?",
+        "category": "horse"
+    },
+    {
+        "sentence": "Is there a butterfly here, or am I wrong?",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "Can you tell if this is a panda?",
+        "category": "panda"
+    },
+    {
+        "sentence": "This photo seems to have a horse, doesn’t it?",
+        "category": "horse"
+    },
+    {
+        "sentence": "I think I see a cow in this photo.",
+        "category": "cow"
+    },
+    {
+        "sentence": "I think I just found a dog in this image!",
+        "category": "dog"
+    },
+    {
+        "sentence": "It appears there’s a cow in this shot.",
+        "category": "cow"
+    },
+    {
+        "sentence": "This photo seems to have a panda, doesn’t it?",
+        "category": "panda"
+    },
+    {
+        "sentence": "I wonder if this is actually a squirrel.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "I wonder if this is actually a hen.",
+        "category": "hen"
+    },
+    {
+        "sentence": "I wonder if this is actually a hen.",
+        "category": "hen"
+    },
+    {
+        "sentence": "Is that a panda in the picture?",
+        "category": "panda"
+    },
+    {
+        "sentence": "I have a feeling that’s a dog.",
+        "category": "dog"
+    },
+    {
+        "sentence": "I think I see a panda in this photo.",
+        "category": "panda"
+    },
+    {
+        "sentence": "Do you also see a cat in this picture?",
+        "category": "cat"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a horse.",
+        "category": "horse"
+    },
+    {
+        "sentence": "Help me out, is this a squirrel?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "I have a feeling that’s a monkey.",
+        "category": "monkey"
+    },
+    {
+        "sentence": "This photo seems to have a cat, doesn’t it?",
+        "category": "cat"
+    },
+    {
+        "sentence": "It appears there’s a hen in this shot.",
+        "category": "hen"
+    },
+    {
+        "sentence": "This photo seems to have a dog, doesn’t it?",
+        "category": "dog"
+    },
+    {
+        "sentence": "I spotted something that looks like a hen.",
+        "category": "hen"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a hen.",
+        "category": "hen"
+    },
+    {
+        "sentence": "I think I see a butterfly in this photo.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "It appears there’s a squirrel in this shot.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "It appears there’s a spider in this shot.",
+        "category": "spider"
+    },
+    {
+        "sentence": "Is that a sheep in the picture?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "This photo seems to have a hen, doesn’t it?",
+        "category": "hen"
+    },
+    {
+        "sentence": "Is this really a spider or something else?",
+        "category": "spider"
+    },
+    {
+        "sentence": "I spotted something that looks like a panda.",
+        "category": "panda"
+    },
+    {
+        "sentence": "I think I see a monkey in this photo.",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I guess that’s a elephant in the background.",
+        "category": "elephant"
+    },
+    {
+        "sentence": "Help me out, is this a cat?",
+        "category": "cat"
+    },
+    {
+        "sentence": "Can you tell if this is a horse?",
+        "category": "horse"
+    },
+    {
+        "sentence": "There is a squirrel in the picture.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Help me out, is this a butterfly?",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "Can someone confirm if this is a squirrel?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "I spotted something that looks like a cat.",
+        "category": "cat"
+    },
+    {
+        "sentence": "Is that a butterfly in the picture?",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "I think I just found a spider in this image!",
+        "category": "spider"
+    },
+    {
+        "sentence": "Can you tell if this is a cat?",
+        "category": "cat"
+    },
+    {
+        "sentence": "Is that a sheep in the picture?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "I’m pretty sure this is a cow, right?",
+        "category": "cow"
+    },
+    {
+        "sentence": "There is a hen in the picture.",
+        "category": "hen"
+    },
+    {
+        "sentence": "This photo seems to have a spider, doesn’t it?",
+        "category": "spider"
+    },
+    {
+        "sentence": "It appears there’s a spider in this shot.",
+        "category": "spider"
+    },
+    {
+        "sentence": "It appears there’s a spider in this shot.",
+        "category": "spider"
+    },
+    {
+        "sentence": "I wonder if this is actually a monkey.",
+        "category": "monkey"
+    },
+    {
+        "sentence": "This photo seems to have a horse, doesn’t it?",
+        "category": "horse"
+    },
+    {
+        "sentence": "Is that a cow in the picture?",
+        "category": "cow"
+    },
+    {
+        "sentence": "I spotted something that looks like a horse.",
+        "category": "horse"
+    },
+    {
+        "sentence": "I guess that’s a panda in the background.",
+        "category": "panda"
+    },
+    {
+        "sentence": "Looks like there’s a sheep in this image.",
+        "category": "sheep"
+    },
+    {
+        "sentence": "There is a spider in the picture.",
+        "category": "spider"
+    },
+    {
+        "sentence": "Is there a spider here, or am I wrong?",
+        "category": "spider"
+    },
+    {
+        "sentence": "I spotted something that looks like a spider.",
+        "category": "spider"
+    },
+    {
+        "sentence": "There is a cow in the picture.",
+        "category": "cow"
+    },
+    {
+        "sentence": "I wonder if this is actually a cow.",
+        "category": "cow"
+    },
+    {
+        "sentence": "I guess that’s a hen in the background.",
+        "category": "hen"
+    },
+    {
+        "sentence": "I think I just found a monkey in this image!",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I spotted something that looks like a elephant.",
+        "category": "elephant"
+    },
+    {
+        "sentence": "I wonder if this is actually a sheep.",
+        "category": "sheep"
+    },
+    {
+        "sentence": "Do you also see a elephant in this picture?",
+        "category": "elephant"
+    },
+    {
+        "sentence": "There is a squirrel in the picture.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Can you tell if this is a panda?",
+        "category": "panda"
+    },
+    {
+        "sentence": "Can someone confirm if this is a squirrel?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "I wonder if this is actually a spider.",
+        "category": "spider"
+    },
+    {
+        "sentence": "I’m pretty sure this is a horse, right?",
+        "category": "horse"
+    },
+    {
+        "sentence": "Can you tell if this is a sheep?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "I’m pretty sure this is a spider, right?",
+        "category": "spider"
+    },
+    {
+        "sentence": "Looks like there’s a elephant in this image.",
+        "category": "elephant"
+    },
+    {
+        "sentence": "I guess that’s a panda in the background.",
+        "category": "panda"
+    },
+    {
+        "sentence": "Doesn’t this look like a butterfly to you?",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "I guess that’s a butterfly in the background.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "There is a hen in the picture.",
+        "category": "hen"
+    },
+    {
+        "sentence": "I think I just found a cow in this image!",
+        "category": "cow"
+    },
+    {
+        "sentence": "I think I see a dog in this photo.",
+        "category": "dog"
+    },
+    {
+        "sentence": "I wonder if this is actually a squirrel.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a panda.",
+        "category": "panda"
+    },
+    {
+        "sentence": "Is that a butterfly in the picture?",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "Can you tell if this is a horse?",
+        "category": "horse"
+    },
+    {
+        "sentence": "Is this really a sheep or something else?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "It appears there’s a hen in this shot.",
+        "category": "hen"
+    },
+    {
+        "sentence": "I’m pretty sure this is a butterfly, right?",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "I’m pretty sure this is a monkey, right?",
+        "category": "monkey"
+    },
+    {
+        "sentence": "It appears there’s a sheep in this shot.",
+        "category": "sheep"
+    },
+    {
+        "sentence": "Is that a dog in the picture?",
+        "category": "dog"
+    },
+    {
+        "sentence": "Do you also see a monkey in this picture?",
+        "category": "monkey"
+    },
+    {
+        "sentence": "There is a hen in the picture.",
+        "category": "hen"
+    },
+    {
+        "sentence": "Is there a dog here, or am I wrong?",
+        "category": "dog"
+    },
+    {
+        "sentence": "I spotted something that looks like a spider.",
+        "category": "spider"
+    },
+    {
+        "sentence": "I wonder if this is actually a butterfly.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "I have a feeling that’s a butterfly.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "I’m pretty sure this is a butterfly, right?",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "There is a monkey in the picture.",
+        "category": "monkey"
+    },
+    {
+        "sentence": "Is this really a cow or something else?",
+        "category": "cow"
+    },
+    {
+        "sentence": "Can you tell if this is a spider?",
+        "category": "spider"
+    },
+    {
+        "sentence": "This photo seems to have a monkey, doesn’t it?",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I wonder if this is actually a horse.",
+        "category": "horse"
+    },
+    {
+        "sentence": "I’m pretty sure this is a horse, right?",
+        "category": "horse"
+    },
+    {
+        "sentence": "I spotted something that looks like a cow.",
+        "category": "cow"
+    },
+    {
+        "sentence": "Looks like there’s a cow in this image.",
+        "category": "cow"
+    },
+    {
+        "sentence": "I spotted something that looks like a spider.",
+        "category": "spider"
+    },
+    {
+        "sentence": "Is this really a sheep or something else?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "Can someone confirm if this is a panda?",
+        "category": "panda"
+    },
+    {
+        "sentence": "I think I see a butterfly in this photo.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "I wonder if this is actually a elephant.",
+        "category": "elephant"
+    },
+    {
+        "sentence": "I’m pretty sure this is a elephant, right?",
+        "category": "elephant"
+    },
+    {
+        "sentence": "Do you also see a hen in this picture?",
+        "category": "hen"
+    },
+    {
+        "sentence": "I wonder if this is actually a monkey.",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I think I just found a hen in this image!",
+        "category": "hen"
+    },
+    {
+        "sentence": "Do you also see a monkey in this picture?",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I spotted something that looks like a monkey.",
+        "category": "monkey"
+    },
+    {
+        "sentence": "Do you also see a elephant in this picture?",
+        "category": "elephant"
+    },
+    {
+        "sentence": "I’m pretty sure this is a butterfly, right?",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "I wonder if this is actually a monkey.",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I guess that’s a spider in the background.",
+        "category": "spider"
+    },
+    {
+        "sentence": "There is a elephant in the picture.",
+        "category": "elephant"
+    },
+    {
+        "sentence": "Do you also see a squirrel in this picture?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Help me out, is this a sheep?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a spider.",
+        "category": "spider"
+    },
+    {
+        "sentence": "Doesn’t this look like a dog to you?",
+        "category": "dog"
+    },
+    {
+        "sentence": "Is there a elephant here, or am I wrong?",
+        "category": "elephant"
+    },
+    {
+        "sentence": "Is that a hen in the picture?",
+        "category": "hen"
+    },
+    {
+        "sentence": "Is that a dog in the picture?",
+        "category": "dog"
+    },
+    {
+        "sentence": "Is that a cow in the picture?",
+        "category": "cow"
+    },
+    {
+        "sentence": "I guess that’s a squirrel in the background.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Do you also see a sheep in this picture?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "Help me out, is this a spider?",
+        "category": "spider"
+    },
+    {
+        "sentence": "Is there a dog here, or am I wrong?",
+        "category": "dog"
+    },
+    {
+        "sentence": "I wonder if this is actually a dog.",
+        "category": "dog"
+    },
+    {
+        "sentence": "I think I see a elephant in this photo.",
+        "category": "elephant"
+    },
+    {
+        "sentence": "I guess that’s a sheep in the background.",
+        "category": "sheep"
+    },
+    {
+        "sentence": "This photo seems to have a cow, doesn’t it?",
+        "category": "cow"
+    },
+    {
+        "sentence": "Is there a dog here, or am I wrong?",
+        "category": "dog"
+    },
+    {
+        "sentence": "Is this really a sheep or something else?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "Doesn’t this look like a hen to you?",
+        "category": "hen"
+    },
+    {
+        "sentence": "Do you also see a cow in this picture?",
+        "category": "cow"
+    },
+    {
+        "sentence": "There is a butterfly in the picture.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "Looks like there’s a squirrel in this image.",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Can someone confirm if this is a squirrel?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "There is a spider in the picture.",
+        "category": "spider"
+    },
+    {
+        "sentence": "Looks like there’s a elephant in this image.",
+        "category": "elephant"
+    },
+    {
+        "sentence": "I spotted something that looks like a butterfly.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "I have a feeling that’s a sheep.",
+        "category": "sheep"
+    },
+    {
+        "sentence": "Can someone confirm if this is a spider?",
+        "category": "spider"
+    },
+    {
+        "sentence": "It appears there’s a monkey in this shot.",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I spotted something that looks like a hen.",
+        "category": "hen"
+    },
+    {
+        "sentence": "Is this really a cat or something else?",
+        "category": "cat"
+    },
+    {
+        "sentence": "Doesn’t this look like a butterfly to you?",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "Help me out, is this a horse?",
+        "category": "horse"
+    },
+    {
+        "sentence": "This photo seems to have a monkey, doesn’t it?",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I think I see a hen in this photo.",
+        "category": "hen"
+    },
+    {
+        "sentence": "Do you also see a hen in this picture?",
+        "category": "hen"
+    },
+    {
+        "sentence": "Looks like there’s a butterfly in this image.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "I spotted something that looks like a cat.",
+        "category": "cat"
+    },
+    {
+        "sentence": "I’m pretty sure this is a cat, right?",
+        "category": "cat"
+    },
+    {
+        "sentence": "Can someone confirm if this is a horse?",
+        "category": "horse"
+    },
+    {
+        "sentence": "There is a cow in the picture.",
+        "category": "cow"
+    },
+    {
+        "sentence": "Is that a monkey in the picture?",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I wonder if this is actually a butterfly.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "I have a feeling that’s a horse.",
+        "category": "horse"
+    },
+    {
+        "sentence": "I think I just found a panda in this image!",
+        "category": "panda"
+    },
+    {
+        "sentence": "Help me out, is this a sheep?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "There is a hen in the picture.",
+        "category": "hen"
+    },
+    {
+        "sentence": "Can someone confirm if this is a hen?",
+        "category": "hen"
+    },
+    {
+        "sentence": "Do you also see a spider in this picture?",
+        "category": "spider"
+    },
+    {
+        "sentence": "Is this really a dog or something else?",
+        "category": "dog"
+    },
+    {
+        "sentence": "I think I just found a monkey in this image!",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a horse.",
+        "category": "horse"
+    },
+    {
+        "sentence": "Can you tell if this is a cat?",
+        "category": "cat"
+    },
+    {
+        "sentence": "Doesn’t this look like a horse to you?",
+        "category": "horse"
+    },
+    {
+        "sentence": "I think I just found a horse in this image!",
+        "category": "horse"
+    },
+    {
+        "sentence": "Looks like there’s a cat in this image.",
+        "category": "cat"
+    },
+    {
+        "sentence": "Is that a cow in the picture?",
+        "category": "cow"
+    },
+    {
+        "sentence": "Can someone confirm if this is a squirrel?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "I think I see a cat in this photo.",
+        "category": "cat"
+    },
+    {
+        "sentence": "I guess that’s a panda in the background.",
+        "category": "panda"
+    },
+    {
+        "sentence": "It appears there’s a cat in this shot.",
+        "category": "cat"
+    },
+    {
+        "sentence": "I think I see a dog in this photo.",
+        "category": "dog"
+    },
+    {
+        "sentence": "There is a cat in the picture.",
+        "category": "cat"
+    },
+    {
+        "sentence": "Can someone confirm if this is a hen?",
+        "category": "hen"
+    },
+    {
+        "sentence": "Help me out, is this a dog?",
+        "category": "dog"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a hen.",
+        "category": "hen"
+    },
+    {
+        "sentence": "Can you tell if this is a monkey?",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I think I just found a horse in this image!",
+        "category": "horse"
+    },
+    {
+        "sentence": "Is this really a dog or something else?",
+        "category": "dog"
+    },
+    {
+        "sentence": "Help me out, is this a dog?",
+        "category": "dog"
+    },
+    {
+        "sentence": "Is this really a cow or something else?",
+        "category": "cow"
+    },
+    {
+        "sentence": "I have a feeling that’s a panda.",
+        "category": "panda"
+    },
+    {
+        "sentence": "Looks like there’s a cow in this image.",
+        "category": "cow"
+    },
+    {
+        "sentence": "Is this really a hen or something else?",
+        "category": "hen"
+    },
+    {
+        "sentence": "Can you tell if this is a cat?",
+        "category": "cat"
+    },
+    {
+        "sentence": "Can someone confirm if this is a butterfly?",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "I'm not sure, but this might be a horse.",
+        "category": "horse"
+    },
+    {
+        "sentence": "Is this really a cat or something else?",
+        "category": "cat"
+    },
+    {
+        "sentence": "This photo seems to have a squirrel, doesn’t it?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "I’m pretty sure this is a cow, right?",
+        "category": "cow"
+    },
+    {
+        "sentence": "It appears there’s a horse in this shot.",
+        "category": "horse"
+    },
+    {
+        "sentence": "Can you tell if this is a cow?",
+        "category": "cow"
+    },
+    {
+        "sentence": "I’m pretty sure this is a cat, right?",
+        "category": "cat"
+    },
+    {
+        "sentence": "I have a feeling that’s a spider.",
+        "category": "spider"
+    },
+    {
+        "sentence": "It appears there’s a butterfly in this shot.",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "Doesn’t this look like a sheep to you?",
+        "category": "sheep"
+    },
+    {
+        "sentence": "I think I see a panda in this photo.",
+        "category": "panda"
+    },
+    {
+        "sentence": "I spotted something that looks like a panda.",
+        "category": "panda"
+    },
+    {
+        "sentence": "Help me out, is this a butterfly?",
+        "category": "butterfly"
+    },
+    {
+        "sentence": "Can you tell if this is a panda?",
+        "category": "panda"
+    },
+    {
+        "sentence": "This photo seems to have a monkey, doesn’t it?",
+        "category": "monkey"
+    },
+    {
+        "sentence": "I spotted something that looks like a cat.",
+        "category": "cat"
+    },
+    {
+        "sentence": "Do you also see a squirrel in this picture?",
+        "category": "squirrel"
+    },
+    {
+        "sentence": "Can you tell if this is a squirrel?",
+        "category": "squirrel"
+    }
+]
