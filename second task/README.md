@@ -8,11 +8,15 @@ For better performance, detection should be improved.
 
 I also tried RF and SVM, but the dataset contains too many images, making training inefficient.
 
-You can run everything from main.py or main_demo.py.
+You can run everything from main.py or main_demo.py. 
 
 First, run train_and_inference_cnn.py and train_and_inference_nlp.py to create trained model files in Keras.
 
 Follow the same installation and setup as in the first task.
+
+You can see all demos in the IPython Notebook (.ipynb) files.
+
+There is: The main demonstration, A CNN model, A good classification model for text, and not-so-good NER model.
 
 Running the Main Script
 To train and test models, run:
@@ -20,5 +24,7 @@ python main.py
 
 # Example usage
 recognizer = ImageRecognizing("There is a cat in the picture.", "Animal Image Dataset\\validation\horse\\OIP-_KQbEV3mFTHovOMDGBF6cgHaF7.jpeg")
+
 result = recognizer.show_result()
+
 print("Result:", result)
